@@ -3,9 +3,9 @@ export const scaleFactor = 4;
 export const dialogueData = {
   cer1: ` 
   ------------------------------------------------------<div></div>
-  -----------Bachlors Degree of Science in--------------<div></div>
+  -----------Bachelor's Degree of Science in------------<div></div>
   - Software Engineering with minor in Web Development -<div></div>
-  ------------- (Graduating DEC 2025) ------------------<div></div>
+  ------------- (Graduating DEC 2024) ------------------<div></div>
   ------------------------------------------------------`,
   cer2: `  
 ---------------------------------------------<div></div>
@@ -43,13 +43,13 @@ export const dialogueData = {
   <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> and 
   <a href="https://www.youtube.com/@CodingWithLewis" target="_blank">Coding with Lewis</a>! too name a few.`,
 
-  desk: `This is Joshua's desk and on it is his resume. <a href="https://github.com/Nortories/Resume/blob/main/Joshua%20Resume.pdf" target="_blank">Check it out?</a>
+  desk: `This is Joshua's desk and on it is his resume. <a href="https://github.com/Nortories/Resume/blob/main/Joshua%20Resume.pdf" target="_blank">Check it out!</a>
   There is also Contact info for him on this sticky note --Email: sooaemalelagij@gmail.com -- if you have any interesting job opportunities you should contact him!`,
 
   sideTable1: `This just a side table. Not very intresting`,
   sideTable2: `This just a side table. Not very intresting`,
 
-  bookshelf: `There are a lot of program language books on this shelves. Joshua has knowlage in many different OOP langanges including C#, C++, Python, Javascript, HTML, CSS, SQL to name a few`,
+  bookshelf: `There are a lot of program language books on this shelves. Joshua has knows many different OOP langanges including C#, C++, Python, Javascript, HTML, CSS, SQL to name a few`,
 
   exit: `If you want to exit Joshua's Sooaemalelagi portfolio, just close the tab.`,
 
