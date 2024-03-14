@@ -2,6 +2,8 @@ import { dialogueData, scaleFactor } from "./constants";
 import { k } from "./kaboomCtx";
 import { displayDialogue, setCamScale } from "./utils";
 
+let musicPlaying = false;
+
 k.loadSprite("spritesheet", "./spritesheet.png", {
   sliceX: 39,
   sliceY: 31,
@@ -32,6 +34,15 @@ k.scene("main", async () => {
   const joshua = k.add([k.sprite("Joshua"), k.pos(800, 270), k.scale(0.32)]);
 
   const intro = k.add([k.sprite("intro"), k.pos(750, 60), k.scale(1)]);
+
+  k.loadSound("music", "./music/bgmusic.mp3");
+
+  k.onClick(() => {
+    if (musicPlaying === false) {
+      musicPlaying = true;
+      k.play("music", { loop: true });
+    }
+  });
 
   const player = k.make([
     k.sprite("spritesheet", { anim: "idle-down" }),
