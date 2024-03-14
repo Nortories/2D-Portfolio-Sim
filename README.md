@@ -11,6 +11,18 @@ Simply open [this link](https://joshua-sooaemalelagi.netlify.app) in a browser t
 - **Interactive Environment**: Walk up to different objects in the scene to interact with them.
 - **Easter Egg**: Find Joshua
 
+## Tools used
+
+- Vanilla Javascript, HTML, CSS
+- Kaboom.js libary
+- Tiled
+
 ## How to Exit
 
 To exit Joshua's Sooaemalelagi portfolio, just close the tab.
+
+## Cite
+
+**Spritesheet**
+
+- Made by Momen
