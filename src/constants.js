@@ -41,7 +41,7 @@ export const dialogueData = {
   <a href="https://www.youtube.com/@Fireship" target="_blank">Fireship</a>, 
   <a href="https://www.youtube.com/@NetworkChuck" target="_blank">NetworkChuck</a>,
   <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> and 
-  <a href="https://www.youtube.com/@CodingWithLewis" target="_blank">Coding with Lewis</a>! too name a few.`,
+  <a href="https://www.youtube.com/@CodingWithLewis" target="_blank">Coding with Lewis</a>! to name a few.`,
 
   desk: `Check out Joshua's resume on this desk. <a href="https://github.com/Nortories/Resume/blob/main/Joshua%20Resume.pdf" target="_blank">Check it out!</a>
   His contact info is on this sticky note --Email: sooaemalelagij@gmail.com -- if you have any interesting job opportunities, contact him!`,
