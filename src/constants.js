@@ -57,5 +57,5 @@ export const dialogueData = {
 
   window: `Thats a window. It's a nice day outside.`,
 
-  easterEgg: `You found Josh! He is so focused on his work he didn't even notice you. Check out what he is working on <a href="https://github.com/Nortories/Resume/blob/main/Joshua%20Resume.pdf" target="_blank">Check it out?</a>.`,
+  easterEgg: `You found Josh! He is so focused on his work he didn't even notice you. Check out what he is working on <a href="https://github.com/Nortories/2D-Portfolio-Sim" target="_blank">Check it out</a>.`,
 };
